@@ -1,1 +1,1 @@
-Scaffold-DbContext "Server=localhost;Database=patitionmanagementsystem1;Uid=root;Pwd=Password@12345;" Pomelo.EntityFrameworkCore.MySql -OutputDir ..\LMSCommon\Entities -ContextDir ..\LMSData\DBContexts -Context LMSDbContext -Force
+Scaffold-DbContext "Server=localhost;Database=lxp;Uid=root;Pwd=Password@12345;" Pomelo.EntityFrameworkCore.MySql -OutputDir ..\LXP.Common\Entities -ContextDir ..\LXP.Data\DBContexts -Context LXPDbContext -Force
